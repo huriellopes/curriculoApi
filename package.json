@@ -1,0 +1,18 @@
+{
+  "name": "curriculoApi",
+  "version": "1.0.0",
+  "description": "Api de  currículo pessoal",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "keywords": ["javascript","node","express"],
+  "author": "Huriel Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
